@@ -7,8 +7,8 @@ This can also help to determine which countries have taken proper measures to co
 
 .![ezgif com-gif-maker](https://user-images.githubusercontent.com/65277727/118404044-efd11380-b68e-11eb-964a-d918927bf5af.gif)
 
-## Data Source
+### Data Source
 The data is downloaded live from https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset .
 
-## Tech Stack
+### Tech Stack
 Python, Tkinter, Data Analysis and Visualization.
